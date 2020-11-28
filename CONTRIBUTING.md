@@ -88,7 +88,7 @@ There are many ways for you to get involved in **Legesher**. One of the biggest 
 
 When contributing it is important to make sure we follow the same guidelines:
 
-- Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. [(Read More)](https://github.com/legesher/Legesher/blob/master/CODE_OF_CONDUCT.md)
+- Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. [(Read More)](https://docs.legesher.io/the-official-things/code-of-conduct)
 - Ensure cross-platform compatibility for every change that's accepted. (Windows, Mac, Debian & Ubuntu Linux)
 - Ensure that code that goes into core meets all requirements in [this checklist](https://github.com/legesher/Legesher/tree/master/.github/ISSUE_TEMPLATE)
 - Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
@@ -218,11 +218,11 @@ _See [conventionalcommits.org](https://conventionalcommits.org/) for more detail
 
 ### Bug Reports :bug:
 
-Answer [these questions](https://github.com/legesher/Legesher/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) when reporting a bug.
+Answer [these questions](https://docs.legesher.io/the-official-things/contributing-guidelines#bug-reports) when reporting a bug.
 
 ### Feature or Enhancement Suggestions 🚀
 
-Answer [these questions](https://github.com/legesher/Legesher/blob/master/.github/ISSUE_TEMPLATE/feature_request.md) when suggesting a feature or enhancement.
+Answer [these questions](https://docs.legesher.io/the-official-things/contributing-guidelines#feature-or-enhancement-suggestions) when suggesting a feature or enhancement.
 
 ### Security Reports :police_car:
 
